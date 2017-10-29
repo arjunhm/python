@@ -1,2 +1,2 @@
-# python
-A repository consisting of random python programs
+# Python
+A repository consisting of random python programs.
